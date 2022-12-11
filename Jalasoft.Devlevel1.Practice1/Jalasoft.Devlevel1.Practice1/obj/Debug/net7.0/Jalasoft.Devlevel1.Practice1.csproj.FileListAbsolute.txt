@@ -1,0 +1,15 @@
+C:\Users\Jalasoft\source\repos\Jalasoft.Devlevel1.Practice1\Jalasoft.Devlevel1.Practice1\bin\Debug\net7.0\Jalasoft.Devlevel1.Practice1.exe
+C:\Users\Jalasoft\source\repos\Jalasoft.Devlevel1.Practice1\Jalasoft.Devlevel1.Practice1\bin\Debug\net7.0\Jalasoft.Devlevel1.Practice1.deps.json
+C:\Users\Jalasoft\source\repos\Jalasoft.Devlevel1.Practice1\Jalasoft.Devlevel1.Practice1\bin\Debug\net7.0\Jalasoft.Devlevel1.Practice1.runtimeconfig.json
+C:\Users\Jalasoft\source\repos\Jalasoft.Devlevel1.Practice1\Jalasoft.Devlevel1.Practice1\bin\Debug\net7.0\Jalasoft.Devlevel1.Practice1.dll
+C:\Users\Jalasoft\source\repos\Jalasoft.Devlevel1.Practice1\Jalasoft.Devlevel1.Practice1\bin\Debug\net7.0\Jalasoft.Devlevel1.Practice1.pdb
+C:\Users\Jalasoft\source\repos\Jalasoft.Devlevel1.Practice1\Jalasoft.Devlevel1.Practice1\obj\Debug\net7.0\Jalasoft.Devlevel1.Practice1.csproj.AssemblyReference.cache
+C:\Users\Jalasoft\source\repos\Jalasoft.Devlevel1.Practice1\Jalasoft.Devlevel1.Practice1\obj\Debug\net7.0\Jalasoft.Devlevel1.Practice1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jalasoft\source\repos\Jalasoft.Devlevel1.Practice1\Jalasoft.Devlevel1.Practice1\obj\Debug\net7.0\Jalasoft.Devlevel1.Practice1.AssemblyInfoInputs.cache
+C:\Users\Jalasoft\source\repos\Jalasoft.Devlevel1.Practice1\Jalasoft.Devlevel1.Practice1\obj\Debug\net7.0\Jalasoft.Devlevel1.Practice1.AssemblyInfo.cs
+C:\Users\Jalasoft\source\repos\Jalasoft.Devlevel1.Practice1\Jalasoft.Devlevel1.Practice1\obj\Debug\net7.0\Jalasoft.Devlevel1.Practice1.csproj.CoreCompileInputs.cache
+C:\Users\Jalasoft\source\repos\Jalasoft.Devlevel1.Practice1\Jalasoft.Devlevel1.Practice1\obj\Debug\net7.0\Jalasoft.Devlevel1.Practice1.dll
+C:\Users\Jalasoft\source\repos\Jalasoft.Devlevel1.Practice1\Jalasoft.Devlevel1.Practice1\obj\Debug\net7.0\refint\Jalasoft.Devlevel1.Practice1.dll
+C:\Users\Jalasoft\source\repos\Jalasoft.Devlevel1.Practice1\Jalasoft.Devlevel1.Practice1\obj\Debug\net7.0\Jalasoft.Devlevel1.Practice1.pdb
+C:\Users\Jalasoft\source\repos\Jalasoft.Devlevel1.Practice1\Jalasoft.Devlevel1.Practice1\obj\Debug\net7.0\Jalasoft.Devlevel1.Practice1.genruntimeconfig.cache
+C:\Users\Jalasoft\source\repos\Jalasoft.Devlevel1.Practice1\Jalasoft.Devlevel1.Practice1\obj\Debug\net7.0\ref\Jalasoft.Devlevel1.Practice1.dll
