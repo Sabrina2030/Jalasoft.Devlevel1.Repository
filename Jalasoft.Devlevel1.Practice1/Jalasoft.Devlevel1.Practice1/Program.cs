@@ -14,7 +14,7 @@ Console.WriteLine("Bienvenido a la aplicacion de pedidos de comida");
 Console.WriteLine("Ingrese su nombre completo");
 name = Console.ReadLine();
 
-while (order <= 5)
+while (order <= 4)
 {
     while (x != "0")
     {
@@ -84,6 +84,11 @@ while (order <= 5)
     
     order++;
 
+}
+
+if (order > 4)
+{
+    Console.WriteLine("Ha alcanzado el limite de pedidos");
 }
 
 Console.WriteLine("Ingrese metodo de pago: ");
